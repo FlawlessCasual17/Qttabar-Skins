@@ -1,2 +1,3 @@
 # Qttabar-Skins
-My skins for Qttabbar.
+
+Custom skins for Qttabbar made by me using [Paint.NET](https://www.getpaint.net/).
